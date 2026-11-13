@@ -1,0 +1,51 @@
+# Central Seattle Dispatch
+
+> The Central Seattle Dispatch is a free weekly email newsletter about Seattle, WA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Central Seattle](https://www.centralseattledispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Central Seattle news](https://www.centralseattledispatch.com/news/): every story, newest first
+- [Reader asked](https://www.centralseattledispatch.com/asked/): readers' questions answered from the public record
+- [Standards](https://www.centralseattledispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.centralseattledispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Capitol Hill](https://www.centralseattledispatch.com/capitol-hill/): Broadway, Cal Anderson Park, Volunteer Park and the Capitol Hill light rail station, from Pike/Pine to the north end of the hill.
+- [Eastlake](https://www.centralseattledispatch.com/eastlake/): The strip between Lake Union and I-5 along Eastlake Avenue East, with the houseboat docks and the University Bridge at the north end.
+- [Montlake](https://www.centralseattledispatch.com/montlake/): Between Portage Bay and Union Bay, with the Montlake Cut, the Montlake Bridge, Montlake Playfield and the SR 520 interchange work.
+- [Madison Park](https://www.centralseattledispatch.com/madison-park/): The lakefront at the end of East Madison Street: Madison Park Beach, the shops on 42nd Avenue East and Broadmoor.
+- [Washington Park](https://www.centralseattledispatch.com/washington-park/): The streets along the Washington Park Arboretum and Lake Washington Boulevard East, between Montlake and Madison Park.
+- [Harrison / Denny-Blaine](https://www.centralseattledispatch.com/harrison-denny-blaine/): The Madison Valley shops on East Madison Street, Denny-Blaine Park on the lake and the Lake Washington Boulevard curve between Madrona and Madison Park.
+- [Madrona](https://www.centralseattledispatch.com/madrona/): The hill above Lake Washington around 34th Avenue, with Madrona Park beach and the shops at 34th and Union.
+- [Leschi](https://www.centralseattledispatch.com/leschi/): The lakefront and hillside south of Madrona, with Leschi Park, the marina, Frink Park and the Lake Washington Boulevard bend.
+- [Central District](https://www.centralseattledispatch.com/central-district/): Along 23rd Avenue from Jackson Street to Union Street, with Garfield Community Center, Powell Barnett Park and the Cherry Street and Union Street corridors.
+
+## Latest
+- [The council's budget committee votes Friday, Nov. 13, then Monday, Nov. 16, and Thursday, Nov. 19, each at 9:30 AM](https://www.centralseattledispatch.com/news/2026-11-12-the-council-s-budget-committee-votes-friday-nov-13-then-monday-nov-16/) (2026-11-12)
+- [Stevens and Montlake elementary schools are one of ten pairings Seattle Public Schools is weighing for possible mergers in 2027–28](https://www.centralseattledispatch.com/news/2026-11-12-stevens-and-montlake-elementary-schools-are-one-of-ten-pairings-seattl/) (2026-11-12)
+- [The Volunteer Park Conservatory's annual open house is Friday, Nov. 20, 5 to 7 PM, and it is free](https://www.centralseattledispatch.com/news/2026-11-12-the-volunteer-park-conservatory-s-annual-open-house-is-friday-nov-20-5/) (2026-11-12)
+- [turn on City Light's outage texts before the next windstorm](https://www.centralseattledispatch.com/news/2026-11-12-turn-on-city-light-s-outage-texts-before-the-next-windstorm/) (2026-11-12)
+- [What the SR 520 work between I-5 and Montlake is building, and when it will be finished](https://www.centralseattledispatch.com/asked/2026-11-12-what-the-sr-520-work-between-i-5-and-montlake-is-building-and-when-it/) (2026-11-12)
+- [Whether the eastbound SR 520 carpool lanes could change from three people to two](https://www.centralseattledispatch.com/asked/2026-11-12-whether-the-eastbound-sr-520-carpool-lanes-could-change-from-three-peo/) (2026-11-12)
+- [The budget chair's balancing package is scheduled for release Tuesday, Nov. 3, and the Budget Committee takes it up Wednesday, Nov. 4](https://www.centralseattledispatch.com/news/2026-11-05-the-budget-chair-s-balancing-package-is-scheduled-for-release-tuesday/) (2026-11-05)
+- [Westbound SR 520 is listed as closed between Montlake Boulevard and I-5 on Nov. 13 through 16](https://www.centralseattledispatch.com/news/2026-11-05-westbound-sr-520-is-listed-as-closed-between-montlake-boulevard-and-i/) (2026-11-05)
+- [The RapidRide J Line open house now runs on the first Thursday of each month, and the next one is today, 2 to 3 PM](https://www.centralseattledispatch.com/news/2026-11-05-the-rapidride-j-line-open-house-now-runs-on-the-first-thursday-of-each/) (2026-11-05)
+- [check Seattle's tree rules before you prune](https://www.centralseattledispatch.com/news/2026-11-05-check-seattle-s-tree-rules-before-you-prune/) (2026-11-05)
+- [How to get speed bumps installed on a residential street in Seattle](https://www.centralseattledispatch.com/asked/2026-11-05-how-to-get-speed-bumps-installed-on-a-residential-street-in-seattle/) (2026-11-05)
+- [The budget's final council vote is set for Friday, November 20, at 1 PM](https://www.centralseattledispatch.com/news/2026-10-29-the-budget-s-final-council-vote-is-set-for-friday-november-20-at-1-pm/) (2026-10-29)
+- [Election Day is Tuesday, November 3; drop boxes close at 8 PM](https://www.centralseattledispatch.com/news/2026-10-29-election-day-is-tuesday-november-3-drop-boxes-close-at-8-pm/) (2026-10-29)
+- [Clocks fall back one hour at 2 AM Sunday, November 1](https://www.centralseattledispatch.com/news/2026-10-29-clocks-fall-back-one-hour-at-2-am-sunday-november-1/) (2026-10-29)
+- [You can ask the city for a curbside EV charger near your home](https://www.centralseattledispatch.com/news/2026-10-29-you-can-ask-the-city-for-a-curbside-ev-charger-near-your-home/) (2026-10-29)
+- [SR 520's in-water piledriving season runs through April 30, 2027](https://www.centralseattledispatch.com/news/2026-10-29-sr-520-s-in-water-piledriving-season-runs-through-april-30-2027/) (2026-10-29)
+- [$50 off a smart thermostat for baseboard heat](https://www.centralseattledispatch.com/news/2026-10-29-50-off-a-smart-thermostat-for-baseboard-heat/) (2026-10-29)
+- [Where to find a solid blues bar in or near Central Seattle, ideally a full band in a seated room](https://www.centralseattledispatch.com/asked/2026-10-29-where-to-find-a-solid-blues-bar-in-or-near-central-seattle-ideally-a-f/) (2026-10-29)
+- [SR 520's westbound ramps to northbound I-5 and E Roanoke St close nightly again, October 26–29](https://www.centralseattledispatch.com/news/2026-10-22-sr-520-s-westbound-ramps-to-northbound-i-5-and-e-roanoke-st-close-nigh/) (2026-10-22)
+- [The budget's road to the November 5 hearing](https://www.centralseattledispatch.com/news/2026-10-22-the-budget-s-road-to-the-november-5-hearing/) (2026-10-22)
+- [Ballots are due Tuesday, November 3](https://www.centralseattledispatch.com/news/2026-10-22-ballots-are-due-tuesday-november-3/) (2026-10-22)
+- [Late-night Link: buses may replace 2 Line trains after 11 PM on October 31 and November 1](https://www.centralseattledispatch.com/news/2026-10-22-late-night-link-buses-may-replace-2-line-trains-after-11-pm-on-october/) (2026-10-22)
+- [The chrysanthemum show comes to the Volunteer Park Conservatory, October 30 to November 1](https://www.centralseattledispatch.com/news/2026-10-22-the-chrysanthemum-show-comes-to-the-volunteer-park-conservatory-octobe/) (2026-10-22)
+- [free leaf bags all November](https://www.centralseattledispatch.com/news/2026-10-22-free-leaf-bags-all-november/) (2026-10-22)
+- [The city's $9.1 billion budget gets its last public hearing November 5, and one line is a park at the Arboretum's north end](https://www.centralseattledispatch.com/news/2026-10-17-the-city-s-9-1-billion-budget-gets-its-last-public-hearing-november-5/) (2026-10-17)
+- [SR 520's westbound ramps to northbound I-5 and E Roanoke St close nightly, Monday through Thursday, two weeks running](https://www.centralseattledispatch.com/news/2026-10-17-sr-520-s-westbound-ramps-to-northbound-i-5-and-e-roanoke-st-close-nigh/) (2026-10-17)
+- [No 2 Line trains between International District/Chinatown and South Bellevue this weekend](https://www.centralseattledispatch.com/news/2026-10-17-no-2-line-trains-between-international-district-chinatown-and-south-be/) (2026-10-17)
+- [November 2, not October 31](https://www.centralseattledispatch.com/news/2026-10-17-november-2-not-october-31/) (2026-10-17)
